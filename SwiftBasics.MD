@@ -181,7 +181,6 @@ Meaning:
 
 ---
 
-# Why Apple Loves guard
 
 Cleaner code.
 
@@ -876,21 +875,6 @@ Works for:
 - String
 - Double
 - anything
-
----
-
-# 9. Why These Matter for Apple
-
-Apple interviews care less about:
-- memorizing syntax
-
-More about:
-- system thinking
-- safety
-- concurrency
-- architecture
-- reliability
-- clean abstractions
 
 ---
 
