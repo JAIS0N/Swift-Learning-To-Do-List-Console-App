@@ -921,11 +921,4 @@ Build:
 - async apps
 - mini evaluation tools
 
-Practice:
-- explaining concepts aloud
-
-Apple interviews heavily test:
-- clarity of thinking
-- tradeoffs
-- architecture reasoning
-```
+]
